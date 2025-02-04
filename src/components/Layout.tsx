@@ -18,7 +18,7 @@ export default function Layout({ children }: LayoutProps) {
             <div className="flex items-center space-x-4">
               {/* Logo Space */}
               <div className="w-8 h-8 bg-gray-700 rounded-full">
-                {https://liquipedia.net/commons/images/3/35/Tecnosh_at_SLi_Invitational_1.png}
+                {liquipedia.net/commons/images/3/35/Tecnosh_at_SLi_Invitational_1.png}
               </div>
               <a href="/" className="flex items-center">
                 <span className="text-xl font-bold">Limonations Animes</span>
