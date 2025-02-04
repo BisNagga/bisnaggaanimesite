@@ -18,10 +18,10 @@ export default function Layout({ children }: LayoutProps) {
             <div className="flex items-center space-x-4">
               {/* Logo Space */}
               <div className="w-8 h-8 bg-gray-700 rounded-full">
-                {/* Add your logo here */}
+                {https://liquipedia.net/commons/images/3/35/Tecnosh_at_SLi_Invitational_1.png}
               </div>
               <a href="/" className="flex items-center">
-                <span className="text-xl font-bold">AnimeStream</span>
+                <span className="text-xl font-bold">Limonations Animes</span>
               </a>
             </div>
 
@@ -85,7 +85,7 @@ export default function Layout({ children }: LayoutProps) {
         <div className="max-w-7xl mx-auto px-4 py-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
-              <h3 className="text-lg font-bold mb-4">AnimeStream</h3>
+              <h3 className="text-lg font-bold mb-4">Limonations Animes</h3>
               <p className="text-gray-400">Seu destino principal para streaming de anime.</p>
             </div>
             <div>
@@ -105,7 +105,7 @@ export default function Layout({ children }: LayoutProps) {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-gray-700 text-center text-gray-400">
-            <p>&copy; {new Date().getFullYear()} AnimeStream. Todos os direitos reservados.</p>
+            <p>&copy; {new Date().getFullYear()} Limonations Animes. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
